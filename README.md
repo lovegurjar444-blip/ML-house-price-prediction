@@ -45,6 +45,4 @@ Run the model:
 python train_model.py
 
 ## Author
-Abhay Kumar
-
-⭐ If you like this project, give it a star on GitHub.
+Lovekush Singh
